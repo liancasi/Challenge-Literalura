@@ -1,5 +1,4 @@
 # Challenge-Literalura
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.larazon.es%2Fcultura%2Fhombre-escribe-mas-90-libros-inteligencia-artificial-gana-fortuna_202306016478b08621debe000195c8bc.html&psig=AOvVaw382xYoGU0-c-Qhk7f7i-Yg&ust=1721261885577000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOj5sq3mrIcDFQAAAAAdAAAAABAE
 
 
 ## Descripción del Proyecto
@@ -26,6 +25,7 @@ Literalura es una aplicación de gestión de libros y autores desarrollada como 
 ## Instalación y Configuración
 
 1. Clona el repositorio:
+https://github.com/liancasi/Challenge-Literalura.git
 
 2. Navega al directorio del proyecto:
 cd literalura
