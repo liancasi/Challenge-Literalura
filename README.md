@@ -1,5 +1,6 @@
 # Challenge-Literalura
 
+![En-el-mundo-existen-150 000 000-de-libros…-y-estos-son-los-100-mejores](https://github.com/user-attachments/assets/1d3f5d00-5e0d-4ef5-aa8b-f0ac2cef89ab)
 
 ## Descripción del Proyecto
 
